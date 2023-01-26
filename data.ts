@@ -175,6 +175,6 @@ export const projects: IProject[] = [
     deployed_url: "",
     github_url: "https://github.com/SenaidMemeti",
     category: ['php', 'mysql', 'javascript', 'html'],
-    key_techs: ['php', 'mysql', 'javascript', 'html']
+    key_techs: ['php', 'mysql', 'html', 'javascript']
   }
 ]
