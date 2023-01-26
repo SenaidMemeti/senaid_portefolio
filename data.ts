@@ -182,7 +182,7 @@ export const projects: IProject[] = [
     name: "Projet école, site web, blog",
     description: "Déscription d'un ville historique albanaise",
     image_path: "/images/berat.png",
-    deployed_url: "http://lesphones.epizy.com/",
+    deployed_url: "http://beratalbanie.epizy.com/",
     github_url: "https://github.com/SenaidMemeti",
     category: ['php', 'mysql' ],
     key_techs: ['php', 'mysql']
