@@ -172,7 +172,7 @@ export const projects: IProject[] = [
     name: "Site web e-commerce",
     description: "Achats et ventes des téléphones en ligne",
     image_path: "/images/phones.png",
-    deployed_url: "",
+    deployed_url: "http://lesphones.epizy.com/",
     github_url: "https://github.com/SenaidMemeti",
     category: ['php', 'mysql'],
     key_techs: ['php', 'mysql']
