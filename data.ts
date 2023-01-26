@@ -166,5 +166,15 @@ export const projects: IProject[] = [
     github_url: "https://github.com/SenaidMemeti",
     category: ['node', 'express', 'react', 'mongo'],
     key_techs: ['next', 'node', 'mongo', 'express']
+  },
+  {
+    id: 6,
+    name: "Site web e-commerce",
+    description: "Achats et ventes des téléphones en ligne",
+    image_path: "/images/phones.png",
+    deployed_url: "",
+    github_url: "https://github.com/SenaidMemeti",
+    category: ['php', 'mysql', 'javascript', 'html'],
+    key_techs: ['php', 'mysql', 'javascript', 'html']
   }
 ]
