@@ -19,7 +19,7 @@ export default function Home() {
               <div className="rounded shadow-inner">
                 <motion.div className="items-center justify-center p-12" initial="initial" animate="animate" variants={fadeInUp}>
                   <h5 className="my-3 font-medium">Bonjour et bienvenue sur mon portfolio !</h5>
-                  <h5 className="my-3 font-medium">Ayant terminer ma formation de développeur web au sein de <strong>l'institut Paul Hankar</strong> à Bruxelles, je maitrise les langages <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>PHP</strong> et <strong>MySQL</strong> ainsi que la librairie <strong>React js</strong>. Je recherche actuellement un poste dans le domaine en tant que développeur web</h5>
+                  <h5 className="my-3 font-medium">Ayant terminé ma formation de développeur web au sein de <strong>l'institut Paul Hankar</strong> à Bruxelles, je maitrise les langages <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>, <strong>PHP</strong> et <strong>MySQL</strong> ainsi que la librairie <strong>React js</strong>. Je recherche actuellement un poste dans le domaine en tant que développeur web</h5>
                   <h5 className="my-3 font-medium">Vous verrez dans ce portfolio, mes compétences, mon parcours et tous les projets que j'ai pu réaliser.</h5>
                   <h5>Je suis dans l'attente d'opportunités en développement de site et application web. Particulièrement intéressé par le développement en langage JavaScript et ses librairies.</h5>
                 </motion.div>
