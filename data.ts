@@ -174,7 +174,7 @@ export const projects: IProject[] = [
     image_path: "/images/phones.png",
     deployed_url: "",
     github_url: "https://github.com/SenaidMemeti",
-    category: ['php', 'mysql', 'javascript', 'html'],
+    category: ['php', 'mysql'],
     key_techs: ['php', 'mysql', 'html', 'javascript']
   }
 ]
