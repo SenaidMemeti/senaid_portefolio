@@ -184,7 +184,7 @@ export const projects: IProject[] = [
     image_path: "/images/berat.png",
     deployed_url: "http://beratalbanie.epizy.com/",
     github_url: "https://github.com/SenaidMemeti",
-    category: ['php', 'mysql' ],
+    category: ['php', 'mysql'],
     key_techs: ['php', 'mysql']
   }
 ]
