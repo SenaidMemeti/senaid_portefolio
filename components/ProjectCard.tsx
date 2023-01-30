@@ -31,8 +31,8 @@ const ProjectCard:FunctionComponent<{
         className="cursor-pointer" 
         onClick={() => setShowDetail(id)} 
         layout="responsive" 
-        height={150} 
-        width={300} 
+        max-height={150} 
+        max-width={300} 
       />
       <p className="my-2 text-center">{name}</p>
       {showDetail === id && (
