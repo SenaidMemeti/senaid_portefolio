@@ -190,9 +190,9 @@ export const projects: IProject[] = [
   {
     id: 8,
     name: "Blog react, next js",
-    description: "Déscription d'un ville historique albanaise",
+    description: "Blog ou on peux poster et commenter des articles",
     image_path: "/images/cms.png",
-    deployed_url: "http://lesphones.epizy.com/",
+    deployed_url: "https://blog-theta-pearl-45.vercel.app/",
     github_url: "https://github.com/SenaidMemeti",
     category: ['react', 'next' ],
     key_techs: ['next', 'react']
