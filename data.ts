@@ -117,7 +117,7 @@ export const database: ISkill[] = [
 ]
 
 export const projects: IProject[] = [
-  {
+  /*{
     id: 1,
     name: "BLOG",
     description: "publication d'articles",
@@ -166,9 +166,9 @@ export const projects: IProject[] = [
     github_url: "https://github.com/SenaidMemeti",
     category: ['node', 'express', 'react', 'mongo'],
     key_techs: ['next', 'node', 'mongo', 'express']
-  },
+  },*/
   {
-    id: 6,
+    id: 1,
     name: "Site web e-commerce",
     description: "Achats et ventes des téléphones en ligne",
     image_path: "/images/phones.png",
@@ -178,7 +178,7 @@ export const projects: IProject[] = [
     key_techs: ['php', 'mysql']
   },
   {
-    id: 7,
+    id: 2,
     name: "Projet école, site web, blog",
     description: "Déscription d'un ville historique albanaise",
     image_path: "/images/berat.png",
@@ -188,7 +188,7 @@ export const projects: IProject[] = [
     key_techs: ['php', 'mysql']
   },
   {
-    id: 8,
+    id: 3,
     name: "Blog react, next js",
     description: "Blog ou on peux poster et commenter des articles",
     image_path: "/images/cms.png",
