@@ -196,5 +196,16 @@ export const projects: IProject[] = [
     github_url: "https://github.com/SenaidMemeti",
     category: ['react', 'next' ],
     key_techs: ['next', 'react']
+  },
+  {
+    id: 4,
+    name: "Trouves l'image et le nom de Dinosaur",
+    description: "Site web, ou on peut treouver les images sur google search en utilisant l'api",
+    image_path: "/images/dinosaur.png",
+    deployed_url: "https://dinosaurs-phi.vercel.app/",
+    github_url: "https://github.com/SenaidMemeti",
+    category: ['node' ],
+    key_techs: ['node' ]
   }
+  
 ]
